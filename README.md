@@ -23,7 +23,7 @@ The goal is to sort the list of integers using the minimum number of operations.
 ## Gettin Started
 First, clone the repository:
 ```` bash
-git clone https://github.com/username/push_swap.git && cd push_swap
+git clone git@github.com:ltrinchini/PushSwap.git && cd push_swap
 ````
 
 Then, compile the program by running:
